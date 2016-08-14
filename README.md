@@ -1,2 +1,4 @@
 # get-set-go
-first repository
+
+hey people 
+mu name is prince .i do study from USICT new delhi.
